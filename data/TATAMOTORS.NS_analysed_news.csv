@@ -1,0 +1,2 @@
+sentiment_score,sentiment_reasoning,key_entities,predicted_impact,date
+-0.5,"The news article mentions the appointment of Shailesh Chandra as new CEO amid JLR hacking, but also highlights the disruption caused by the hacking incident at Jaguar Land Rover.","['Shailesh Chandra', 'Jaguar Land Rover']",3,2025-09-27

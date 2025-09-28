@@ -1,0 +1,3 @@
+sentiment_score,sentiment_reasoning,key_entities,predicted_impact,date
+-0.5,"The article is neutral in tone, but the recommendation to sell Sequent Scientific suggests a negative sentiment.","['SeQuent Scientific', 'IDFC First Bank', 'Gujarat Pipavav Port']",3,2025-09-27
+-0.5,"The news article mentions a short-term dip in sales, which is negative.","['Hindustan Unilever', 'GST']",3,2025-09-26

@@ -1,0 +1,2 @@
+sentiment_score,sentiment_reasoning,key_entities,predicted_impact,date
+-0.5,The news article is neutral in tone and does not provide any clear indication of a positive or negative sentiment towards the topic.,"[""Trump's pharma tariffs"", 'Sun Pharma', 'Cipla', ""Dr Reddy's""]",3,2025-09-27

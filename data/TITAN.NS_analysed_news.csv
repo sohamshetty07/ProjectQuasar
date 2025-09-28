@@ -1,0 +1,2 @@
+sentiment_score,sentiment_reasoning,key_entities,predicted_impact,date
+-0.5,"The article mentions several negative factors such as weak Q2 results, high gold prices, and lab-grown diamond competition.","['Titan Company', 'Nomura', 'gold prices', 'lab-grown diamonds']",3,2025-09-26

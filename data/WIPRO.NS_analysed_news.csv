@@ -1,0 +1,2 @@
+sentiment_score,sentiment_reasoning,key_entities,predicted_impact,date
+-0.5,"The news article discusses Trump's proposed hike in H-1B visa fees, which could impact Indian IT companies like TCS, Infosys, and Wipro. However, experts believe that long-term opportunities exist due to the India-US trade deal and US Fed rate cut optimism.","['Trump', 'H-1B visa fee hike', 'TCS', 'Infosys', 'Wipro']",3,2025-09-27

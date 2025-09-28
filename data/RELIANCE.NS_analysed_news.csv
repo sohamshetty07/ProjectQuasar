@@ -1,0 +1,2 @@
+sentiment_score,sentiment_reasoning,key_entities,predicted_impact,date
+-0.2,"The article discusses a conflict between two Indian billionaires, Mukesh Ambani and Gautam Adani, over the control of a water source in the Thar Desert. The article also mentions that the desert is facing severe droughts due to climate change.","['Mukesh Ambani', 'Gautam Adani', 'Thar Desert']",3,2025-09-26

@@ -1,0 +1,2 @@
+sentiment_score,sentiment_reasoning,key_entities,predicted_impact,date
+-0.2,The market is currently in a bearish trend due to the recent crash of the Sensex and Nifty indices.,"['Sensex', 'Nifty']",3,2025-09-26
